@@ -67,7 +67,7 @@
               <small class="text-body-secondary">Posted at <?php echo $row['posted_time']; ?></small>
             </p>
           </div>
-          <?php }?>
+          <?php }?>     
         </div>
         <?php }?>
         <!-- Add more articles as needed -->
